@@ -1,0 +1,79 @@
+body{
+    background-color:#bdc3c7 ;
+}
+
+h1{
+    color:#9b59b6 ;
+}
+h1:hover{
+    color:#0000ff ;
+}
+h2{
+    color:orange ;
+}
+
+ul{
+    color: #000fff;
+}
+#special{
+    background-color: yellow;
+    font-size: 25px;
+    border: solid 2px rgb(88,20,255);
+    
+}
+#special::first-letter{
+    font-size: 100px;
+    color: green;
+
+}
+.hello{
+    background-color: yellow;
+    font-size: 25px;
+}
+.rock{
+    background-color: yellow;
+    font-size: 25px;
+}
+/*Make all inputs have a 3px red border*/
+input{
+    border: 3px solid red;
+}
+.doc{
+    border: 3px solid red;
+}
+.hello{
+    background-color: white;
+}
+
+
+#one{
+    font-size: 25px;
+    background-color: pink;
+}
+#two{
+    font-size: 25px;
+    background-color: pink;
+    border:solid 5px white
+}
+
+#m{
+    background: grey;
+    
+
+}
+label{
+    text-transform: uppercase;
+}
+
+
+#em{
+    color: white;
+    font-size: 20px;
+}
+.margin{
+    margin-left: 50px;
+}
+
+a:visited{
+    color: grey;
+}
