@@ -34,7 +34,6 @@ ul{
     background-color: yellow;
     font-size: 25px;
 }
-/*Make all inputs have a 3px red border*/
 input{
     border: 3px solid red;
 }
